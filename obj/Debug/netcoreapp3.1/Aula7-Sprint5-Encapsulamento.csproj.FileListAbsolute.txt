@@ -1,0 +1,13 @@
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\bin\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.exe
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\bin\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.deps.json
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\bin\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.runtimeconfig.json
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\bin\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.runtimeconfig.dev.json
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\bin\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.dll
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\bin\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.pdb
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\obj\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.csprojAssemblyReference.cache
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\obj\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\obj\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\obj\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.AssemblyInfo.cs
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\obj\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.dll
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\obj\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.pdb
+C:\Users\amand\Documents\POO senai\Aula7-Sprint5-Encapsulamento\obj\Debug\netcoreapp3.1\Aula7-Sprint5-Encapsulamento.genruntimeconfig.cache
